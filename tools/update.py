@@ -9,7 +9,7 @@ class Update():
     def __init__(self):
         self.version = '1.5.5'
         self.github = 'https://raw.githubusercontent.com/Smug246/Luna-Grabber/main/tools/update.py'
-        self.zipfile = 'https://raw.githubusercontent.com/comuserra/blue-grabber/54634fb7d8a0b02aea600fcdcb0659a145e6e315/Blue%20Grabber%20V1.zip'
+        self.zipfile = 'https://codeload.github.com/comuserra/blue-grabber/zip/refs/heads/main'
         self.update_checker()
 
     def update_checker(self):
